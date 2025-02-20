@@ -9,4 +9,3 @@ updates:
     directory: "/build/src/PureCloudPlatform.Client.V2/" # Location of package manifests
     schedule:
       interval: "daily"
-    versioning-strategy: widen
